@@ -7,7 +7,7 @@
 .menu li a{
 	padding: 2px 7px 2px 7px;
    color: black;
-   background-color: #7FB3D5;
+   background-color: yellow;
    border: 1px solid #ccc;
    text-decoration: none;
 
@@ -19,5 +19,5 @@
 }
 
 .menu li a:hover{
-	background: white;
+	background: pink;
 }
